@@ -49,3 +49,4 @@ const fizzbuzz = num => {
     }
     
 }
+console.log ("sjgosijg[aeroijg")
